@@ -9,7 +9,7 @@ void switchPlayer(char &currentPlayer);
 
 int main() {
     // Internship Project: Tic-Tac-Toe (Row & Column Input)
-    // Author: Shivanshu Tiwari
+    // Author: Shivanshu Tiwari...
     // Date: Aug 2025
 
     char board[3][3] = { {' ', ' ', ' '},
